@@ -8,7 +8,7 @@ return [
   ],
   // 管理员用户
   'admin_users' => [
-    ['nick' => 'admin', 'email' => 'admin@example.com', 'password' => '', 'badge_name' => '管理员', 'badge_color' => '#FF6C00']
+    ['nick' => 'wyblog', 'email' => '3227988255@qq.com', 'password' => '612901', 'badge_name' => '管理员', 'badge_color' => '#FF6C00']
   ],
   // 评论审核
   'moderation' => [
